@@ -80,7 +80,7 @@ li {
 }
 
 .text--gold {
-  color: #F9A826 ;
+  color: #F9A826;
 }
 
 section:nth-child(even) {
@@ -407,6 +407,7 @@ footer {
 .footer__logo--img {
   width: 70px;
   height: 70px;
+  background-color: #242424;
 }
 
 .footer__social--link,
@@ -449,7 +450,7 @@ footer {
   }
 
   .language {
-    width: calc(100% / 3);
+    width: calc(100% / 2);
   }
 
   .project__description--para {
